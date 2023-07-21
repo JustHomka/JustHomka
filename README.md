@@ -1,5 +1,5 @@
 ### 👋Hi there
-I'm Homka (Vadim), Ukrainian Minecraft plugin and web developer
+I'm Vadim, Ukrainian Minecraft plugin and web developer
 
 ---
 
