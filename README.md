@@ -15,15 +15,6 @@ I'm Vadim, Ukrainian Minecraft plugin and web developer
 
 ---
 
-### 💬Socials
-<div>
-  <a href="https://discord.gg/6ddR7jZzUc" target="_blank">
-    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" width="50" height="40" alt="discord" />
-  </a>
-</div>
-
----
-
 ### ⚙️Instruments
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
