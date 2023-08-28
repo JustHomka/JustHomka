@@ -1,5 +1,5 @@
 ### 👋Hi there
-I'm Vadim, Ukrainian Minecraft plugin and web developer
+I'm Vadim, Ukrainian Minecraft plugin and web developer. If you want, you can support me on [Donatello](https://donatello.to/nothomka)
 
 ---
 
